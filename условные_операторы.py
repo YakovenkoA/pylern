@@ -1,4 +1,4 @@
-x = 54325.343
+"""x = 54325.343
 
 if x == 0:
     x =1
@@ -12,4 +12,11 @@ else :
     x = 1
     
     
-    print (100/x)    
+    print (100/x)  
+    
+    """
+    
+    #Тернарный оператор
+date = input() 
+number = 5 if date == "five" else 0
+print(number)

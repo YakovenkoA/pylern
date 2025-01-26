@@ -24,3 +24,12 @@ z, *x, c = [1, 2, 3, 4, 5]
 print (z)
 print (x)
 print (c)
+
+
+numb1 = int(input('Введите 1 число: '))
+numb2 = int(input('Введите 2 число: '))
+
+print('Result: ', numb1 + numb2)
+print('Result: ', numb1 - numb2)
+print('Result: ', numb1 * numb2)
+print('Result: ', numb1 / numb2)
