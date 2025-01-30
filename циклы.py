@@ -27,3 +27,4 @@ for i in word:
     count += 1
     
   print("count", count)
+  
